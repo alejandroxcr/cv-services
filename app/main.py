@@ -19,13 +19,13 @@ async def hello():
 async def profile_information():
     # TODO: This information will be fetched from Mongo.
     PROFILE_INFO = {
-        "birth": "16/06/1986",
-        "country_name": "Costa Rica",
-        "email": "alejandroxcr@gmail.com",
+        "birth": "11/11/1970",
+        "country_name": "United States",
+        "email": "jsmith@example.com",
         "marital_status": "married",
-        "name": "Alejandro",
-        "last_name": "Gutiérrez Mata",
-        "phone": "8316-2066",
+        "name": "Jonh",
+        "last_name": "Smith",
+        "phone": "8888-8888",
         "social_media": {
             "git_hub": "",
             "linkedin": "",
