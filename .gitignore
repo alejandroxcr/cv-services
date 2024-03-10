@@ -1,0 +1,16 @@
+
+# Distribution / packaging
+.env
+.env.*
+dist/
+build/
+
+
+# IDEs and editors
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# FastAPI specific files (if any)
+# Add any additional directories or files specific to your FastAPI application
